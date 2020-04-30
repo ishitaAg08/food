@@ -42,10 +42,14 @@
 @media(max-width:670px){
   header{
   height:110px;
+    overflow:hidden;
   }
   .header-right{
      float:left;
      margin:0 80px;
+  }
+  .head p,h2{
+    line-height:3px;
   }
   .top-wrapper{
   padding:300px 0 300px 0;

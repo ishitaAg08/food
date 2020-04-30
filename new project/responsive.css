@@ -6,7 +6,7 @@
    width:45%;
   }
   .modi-wrapper img{
-    height:240px;
+    height:180px;
 
   }
   .modi-left{
@@ -48,9 +48,7 @@
      float:left
   }
 
-  
-}
-  }
+ 
   .top-wrapper{
   padding:300px 0 300px 0;
   }
@@ -61,7 +59,7 @@
    height:250px;
   }
   .modi-right img{
-    height:70px;
+    height:180px;
   }
   .modi-right{
   float:left;

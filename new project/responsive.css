@@ -6,11 +6,11 @@
    width:45%;
   }
   .modi-wrapper img{
-    height:180px;
+    height:240px;
 
   }
   .modi-left{
-   width:60%;
+   width:30%;
   }
   .survey-form{
   width:60%;
@@ -42,14 +42,12 @@
 @media(max-width:670px){
   header{
   height:160px;
-    overflow:hidden;
   }
   
   .header-right{
-     display:none;
+     float:left
   }
-  .menu-icon{
-    display:block;
+
   
 }
   }

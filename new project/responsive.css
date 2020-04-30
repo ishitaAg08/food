@@ -48,10 +48,10 @@
   .header-right{
      float:left;
      margin:0 80px;
-   
+     display:none;
   }
-  .head p,h2{
-    line-height:3px;
+  .menu-icon{
+    display:block
   }
   .top-wrapper{
   padding:300px 0 300px 0;

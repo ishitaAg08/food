@@ -10,7 +10,7 @@
 
   }
   .modi-left{
-   width:30%;
+   width:40%;
   }
   .survey-form{
   width:60%;
@@ -46,6 +46,8 @@
   
   .header-right{
      float:left
+     margin:0 80px;
+  
   }
 
  

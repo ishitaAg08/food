@@ -39,7 +39,7 @@
 
 
 /*For smartphones*/
-@media(max-width:670px){
+@media(max-width:670px) and (min-width:500px){
   header{
   height:110px;
   }

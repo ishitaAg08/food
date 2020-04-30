@@ -50,6 +50,7 @@
   .header-right{
      float:left;
      margin:0 80px;
+    width:40%;
   }
   .head p,h2{
     line-height:3px;
@@ -61,7 +62,7 @@
   font-size:35px;
   }
   .modi-wrapper{
-   height:220px;
+   height:250px;
   }
   .modi-right{
   float:left;

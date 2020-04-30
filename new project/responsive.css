@@ -44,6 +44,9 @@
   height:110px;
     overflow:hidden;
   }
+  .header-left{
+    width:100%;
+  }
   .header-right{
      float:left;
      margin:0 80px;
